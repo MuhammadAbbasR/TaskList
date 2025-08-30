@@ -5,8 +5,7 @@ import "./App.css";
 
 function App() {
   const [tasks, setTasks] = useState([
-    { id: 1, text: "Learn React" },
-    { id: 2, text: "Build Task Tracker" },
+    
   ]);
 
   const addTask = (text) => {
