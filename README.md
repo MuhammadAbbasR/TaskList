@@ -19,7 +19,7 @@ This app allows you to add and delete tasks with a clean UI.
 ---
 ## 📸 Screenshot
 
-![Task Tracker Screenshot](https://github.com/MuhammadAbbasR/TaskList/blob/9f04d39e48f35d191173680234c9b1576bb17d79/blu1.PNG)
+![Task Tracker Screenshot](https://github.com/MuhammadAbbasR/TaskList/blob/78dac4d82440769a2d6b02cc308a4ea50dd3fbe8/blu1.PNG)
 
 ## Available Scripts
 
